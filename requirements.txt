@@ -1,0 +1,3 @@
+pywin32>=306
+pycryptodome>=3.20.0
+pyqt5>=5.15.10
