@@ -146,7 +146,7 @@ regsvr32 dist/outlook_encryption_plugin.dll
 
 <ul>
   <li><a href="https://github.com/joshuanmoses">Joshua Moses</a> — AI Engineer & Cybersecurity SME</li>
-   <li>All rights reserved © 2024, Joshua Moses</li>
+   <li>All rights reserved © 2004, Joshua Moses</li>
 </ul>
 
 </body>
